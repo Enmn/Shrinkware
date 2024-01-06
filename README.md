@@ -2,7 +2,7 @@
 Shrinkware is a tool for creating shortcuts with minimized file sizes, particularly designed for executable files. This utility enables users to easily create shortcuts with associated icons and execute the target files efficiently.
 
 <p align="center">
-  <img src="assets/image.png"/>
+  <img src="Assets/image.png"/>
 </p>
 
 ## Features
